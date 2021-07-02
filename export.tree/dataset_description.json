@@ -1,0 +1,16 @@
+{
+    "Name": "Schematic narrative perception and recall (intact)",
+    "License": "CC0",
+    "Authors": [
+        "C. Baldassano",
+        "U. Hasson",
+        "Norman, K.A."
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.0",
+    "DatasetDOI": "10.18112/openneuro.ds001510.v2.0.0"
+}
