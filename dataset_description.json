@@ -3,7 +3,7 @@
     "License": "CC0",
     "Authors": [
         "C. Baldassano",
-        "R. Masís-Obando",
+        "R. Mas\u00eds-Obando",
         "U. Hasson",
         "Norman, K.A."
     ],
@@ -12,5 +12,6 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "BIDSVersion": "1.7.2"
+    "BIDSVersion": "1.7.2",
+    "DatasetDOI": "10.18112/openneuro.ds001510.v2.0.1"
 }
